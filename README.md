@@ -1,10 +1,22 @@
 # 👋 Hi there, I'm Subuhana B!
 
-🎓 I’m a B.Tech CSE Final Year at **LBS Institute of Technology for Women (LBSITW)**, Kerala.  
-I'm a passionate tech enthusiast who loves building real-world projects using **Python**, **Web Technologies**,**Security & AI Enthusiast** and **Open Source Contributor**  I strongly believe in learning by doing and sharing.
+🎓 Final-year CSE student at **LBS Institute of Technology for Women, Kerala**  
+💻 Web | AI tools/ML tools| Cybersecurity | Python | Full-Stack  
+🌱 Open-source contributor | Research-oriented | Problem-solver  
+🌍 Passionate about building tech that matters
 
+<p align="center">
+  <a href="https://github.com/subuhana2303">
+    <img src="https://img.shields.io/badge/GitHub-Subuhana%20B-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/subuhana-b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Subuhana%20B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:subuhanabasheer41@gmail.com">
+    <img src="https://img.shields.io/badge/Email-subuhanabasheer41@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-🐙 [GitHub](https://github.com/subuhana2303) • 🔗 [LinkedIn](https://www.linkedin.com/in/subuhana-b/) • 📧 [Email](mailto:subuhanabasheer41@gmail.com)
 
 ---
 
