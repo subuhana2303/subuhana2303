@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm Subuhana B!
+# # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> I'm Subuhana B!
+
+I'm **Subuhana B**, a final-year Computer Science Engineering student at *LBS Institute of Technology for Women, Kerala*.
+
 
 🎓 Final-year CSE student at **LBS Institute of Technology for Women, Kerala**  
 💻 Web | AI tools/ML tools| Cybersecurity | Python | Full-Stack  
@@ -8,7 +11,7 @@
   <a href="https://github.com/subuhana2303">
     <img src="https://img.shields.io/badge/GitHub-Subuhana%20B-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/subuhana-b/">
+  <a href="https://www.linkedin.com/in/subuhana/">
     <img src="https://img.shields.io/badge/LinkedIn-Subuhana%20B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:subuhanabasheer41@gmail.com">
@@ -97,14 +100,14 @@ An **AI-powered resume analyzer** that scores resumes based on predefined IT job
 
 ## 📂 Other Projects
 
+
+- **🛡️ VaaniRakshak** – Offline voice assistant for disaster response  
+  [🔗 Repo](https://github.com/subuhana2303/VaaniRakshak_Offline-Emergency-Voice-Assistant.git)
 - **🧠 IRFusion Compiler** – Educational IR-based compiler  
   [🔗 Repo](https://github.com/subuhana2303/IRFusion_Project.git)
 
 - **🔐 Password Generator** – Secure passwords with voice and QR features  
   [🔗 Repo](https://github.com/subuhana2303/Generate_password.git)
-
-- **🛡️ VaaniRakshak** – Offline voice assistant for disaster response  
-  [🔗 Repo](https://github.com/subuhana2303/VaaniRakshak_Offline-Emergency-Voice-Assistant.git)
 
 - **🕹️ DevGames** – Real-time multiplayer coding duel platform  
   [🔗 Repo](https://github.com/subuhana2303/DEVGAMES.git)
@@ -115,8 +118,6 @@ An **AI-powered resume analyzer** that scores resumes based on predefined IT job
 - **🎬 Netflix Clone (Frontend)** – Replicated modern streaming UI  
   [🔗 Repo](https://github.com/subuhana2303/NETFLIX_CLONE.git)
 
-- **🏏 Cricket Ticket Booking System** – Booking UI for cricket matches  
-  [🔗 Repo](https://github.com/subuhana2303/Cricket-Ticket-Management-Systems.git)
 
 ---
 
