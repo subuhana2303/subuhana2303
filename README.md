@@ -1,92 +1,64 @@
-<!-- Animated waving hand -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&vCenter=true&width=435&lines=Hi+there%2C+I'm+Subuhana+B+%F0%9F%91%8B;CS+Student+%7C+Web+%7C+AI+%7C+Security;Welcome+to+my+creative+tech+space!+🌻" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-subuhana2303-blueviolet?logo=github" />
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?logo=google-chrome" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F40FF&width=435&lines=Hi+there!+I'm+Subuhana+B+%F0%9F%91%8B;Passionate+Developer+%F0%9F%92%BB;AI+%7C+Security+%7C+Web+%7C+Accessibility+%E2%9C%A8)
 
 ---
 
-> 🌼 _“I build with intention, secure with curiosity, and code with empathy.”_
+## 💡 About Me
+
+🎓 Final year Computer Science student with a passion for building real-world solutions  
+💻 Love working at the intersection of **AI, Security, Web, and Accessibility**  
+🚀 Always learning, building, and sharing  
+🌍 From Kerala, India  
 
 ---
 
-## ✨ Who Am I?
+## 🛠️ Tech Stack
 
-🎓 Final-year **Computer Science student**  
-🔐 Focused on **Web Security**, **AI Applications**, and **Tech for Social Good**  
-🛠️ Fluent in **Python**, **Flask**, **Streamlit**, and **JavaScript**  
-🎯 I believe in **making tech accessible, ethical, and real-world ready**
-
----
-
-## 🚀 Projects I’m Proud Of
-
-### 🛡️ **Web Vulnerability Lab**
-> Simulate and learn how security bugs like XSS, SQL Injection, and CSRF work — safely.  
-🔧 *Built with:* `Flask`, `HTML/CSS`, `SQLAlchemy`, `sqlite3`  
-[🔗 GitHub Repo](https://github.com/subuhana2303/Web_Vulnerablity_Lab)
+- 💻 **Languages**: Python, C, C++, JavaScript, SQL  
+- 🌐 **Web**: HTML, CSS, JS, Flask, Streamlit  
+- 🔐 **Security**: SQL Injection, XSS, CSRF simulation  
+- 🧠 **AI/NLP**: spaCy, S-BERT, TF-IDF  
+- 🗄️ **Database**: MySQL, PostgreSQL, SQLite  
+- 🧰 **Tools**: Git, GitHub, VSCode, Replit
 
 ---
 
-### 📄 **Resume Scorer for IT Job Roles**
-> AI-powered analyzer that scores resumes using NLP + job-matching algorithms.  
-🔧 *Built with:* `Streamlit`, `spaCy`, `S-BERT`, `TF-IDF`, `Flask`  
-[🔗 GitHub Repo](https://github.com/subuhana2303/Resume_Score_Analyzer)
+## 📌 Featured Projects
+
+### 🧠 Resume Scorer — AI-Powered Resume Analyzer
+An intelligent app that scores IT resumes based on job criteria using **NLP & ML**  
+`Flask · Streamlit · spaCy · S-BERT · TF-IDF`  
+🔗 [View Repo](https://github.com/subuhana2303/Resume_Scorer_AI)
 
 ---
 
-### 🗣️ **VaaniRakshak — Offline Emergency Assistant**
-> Voice-enabled tool for crisis situations, even without internet — alert, assist, and protect.  
-🔧 *Built with:* `SpeechRecognition`, `Tkinter`, `Offline APIs`, `gTTS`  
-[🔗 GitHub Repo](https://github.com/subuhana2303/VaaniRakshak_Offline)
+### 🛡️ Web Vulnerability Lab — Learn, Simulate & Secure the Web  
+An interactive platform to explore **SQL Injection, XSS, CSRF** vulnerabilities.  
+Includes **safe + vulnerable modes** for ethical hacking practice  
+🔗 [View Repo](https://github.com/subuhana2303/Web_Vulnerablity_Lab)
 
 ---
 
-### 🧭 **SkillMapper**
-> Match resume skills to IT job roles and build your personalized career roadmap using AI.  
-🔧 *Built with:* `Streamlit`, `Python`, `PDF Parsing`, `Roadmap Generator`  
-[🔗 GitHub Repo](https://github.com/subuhana2303/SkillMapper)
+### 🆘 VaaniRakshak — Offline Disaster Response Assistant  
+Built to help communities during internet blackouts. Fully **offline-first AI system**  
+🔗 [View Repo](https://github.com/subuhana2303/VaaniRakshak_Offline)
 
 ---
 
-## 🧠 Tech Toolbox
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,streamlit,sqlite,html,css,js,git,vscode,github&perline=8" />
-</p>
-
----
-
-## 📊 My GitHub at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subuhana2303&show_icons=true&theme=gruvbox&hide_border=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subuhana2303&layout=compact&theme=gruvbox&hide_border=true" height="180">
-</p>
+![Subuhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subuhana2303&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subuhana2303&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🧩 What Makes Me Different?
+## 🔗 Let’s Connect!
 
-- 🛡️ **Security Minded**: I love building vulnerable apps — to fix them
-- 🌍 **Human First**: I build tech that's **inclusive** and **accessible**
-- 🔁 **Continuous Learner**: Every project is a new opportunity to grow
-- 🤝 **Team-Ready**: I love collaborating and sharing knowledge
-
----
-
-## 💬 Let's Connect
-
-I’m open to internships, open-source collabs, or hackathon teams!  
-Reach me via **LinkedIn** or drop an issue in any repo 💌
-
-> 📌 *Currently working on accessibility-focused tools for learning-disabled users*
+- 💼 [LinkedIn](https://www.linkedin.com/in/subuhana-b/)
+- 📫 Email: subuhanabasheer23@gmail.com  
+- 🌐 Portfolio: *coming soon*  
+- 🧠 Replit: [@SubuhanaB](https://replit.com/@SubuhanaB)
 
 ---
 
-<p align="center"><b>Thanks for visiting! 🌸 Let's build something meaningful.</b></p>
+### ⭐ _“Code with purpose. Build with empathy.”_
+
