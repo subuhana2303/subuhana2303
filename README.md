@@ -1,11 +1,8 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> I'm Subuhana B!
 
-I'm **Subuhana B**, a final-year Computer Science Engineering student at *LBS Institute of Technology for Women, Kerala*.
-
-
 🎓 Final-year CSE student at **LBS Institute of Technology for Women, Kerala**  
-💻 Web | AI tools/ML tools| Cybersecurity | Python | Full-Stack  
-🌱 Open-source contributor | Research-oriented | Problem-solver  
+💻 **Web | AI tools/ML tools| Cybersecurity | Python | Full-Stack** 
+🌱 **Open-source contributor | Research-oriented | Problem-solver**  
 🌍 Passionate about building tech that matters
 
   <a href="https://github.com/subuhana2303">
