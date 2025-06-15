@@ -5,7 +5,6 @@
 🌱 Open-source contributor | Research-oriented | Problem-solver  
 🌍 Passionate about building tech that matters
 
-<p align="center">
   <a href="https://github.com/subuhana2303">
     <img src="https://img.shields.io/badge/GitHub-Subuhana%20B-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
@@ -15,7 +14,7 @@
   <a href="mailto:subuhanabasheer41@gmail.com">
     <img src="https://img.shields.io/badge/Email-subuhanabasheer41@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+
 
 
 ---
