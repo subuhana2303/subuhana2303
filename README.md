@@ -78,14 +78,12 @@ Demonstrates **lexical analysis, IR generation**, and **code generation** in a m
   <img src="https://github-readme-stats.vercel.app/api?username=subuhana2303&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subuhana2303&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
 ---
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/subuhana-b/)
-- 📫 Email: [subuhanabasheer23@gmail.com](mailto:subuhanabasheer23@gmail.com)
-- 🧠 [Replit](https://replit.com/@SubuhanaB)
+- 💼 [LinkedIn](https://www.linkedin.com/in/subuhana?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BhHQgpYTsTYWYZ7jUE3erHw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile)
+- 📫 Email: [subuhanabasheer21@gmail.com](mailto:subuhanabasheer41@gmail.com)
 - 🌐 Portfolio: _coming soon_
 
 ---
