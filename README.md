@@ -2,6 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F40FF&center=true&width=450&lines=Hi+there!+I'm+Subuhana+B+👋;AI+%7C+Security+%7C+Web+%7C+Accessibility+✨;Passionate+Full-Stack+Developer+💻;Always+learning,+building,+sharing+🚀)
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subuhana2303&label=Profile+Views&color=9F40FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/subuhana2303?label=Followers&style=flat-square&color=blueviolet" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Following-6-blue?style=flat-square" alt="Following Count" />
   <img src="https://img.shields.io/github/forks/subuhana2303/GreenCode_Checker?label=GreenCode+Forks&style=flat-square&color=9F40FF" alt="GreenCode Checker Forks" />
@@ -73,10 +74,28 @@ Demonstrates **lexical analysis, IR generation**, and **code generation** in a m
 
 ## 📊 GitHub Stats
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subuhana2303&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subuhana2303&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=subuhana2303&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subuhana2303&layout=compact&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=subuhana2303&theme=dark&hide_border=true" width="80%" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <!-- Total Commits Badge (manual label since vercel uses repo commits only) -->
+  <img src="https://img.shields.io/badge/Total%20Commits-141-purple?style=flat-square&logo=git" alt="Total Commits Badge"/>
+</p>
+
 ---
 
 ## 🔗 Connect with Me
