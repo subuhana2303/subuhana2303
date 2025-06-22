@@ -72,9 +72,6 @@ Demonstrates **lexical analysis, IR generation**, and **code generation** in a m
 
 ---
 
-## 📊 GitHub Stats
-
----
 
 ## 📊 GitHub Stats
 
