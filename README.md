@@ -87,11 +87,6 @@ Demonstrates **lexical analysis, IR generation**, and **code generation** in a m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subuhana2303&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-
-<p align="center">
   <!-- Total Commits Badge (manual label since vercel uses repo commits only) -->
   <img src="https://img.shields.io/badge/Total%20Commits-141-purple?style=flat-square&logo=git" alt="Total Commits Badge"/>
 </p>
