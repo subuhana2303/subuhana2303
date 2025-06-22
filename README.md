@@ -2,7 +2,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F40FF&center=true&width=450&lines=Hi+there!+I'm+Subuhana+B+👋;AI+%7C+Security+%7C+Web+%7C+Accessibility+✨;Passionate+Full-Stack+Developer+💻;Always+learning,+building,+sharing+🚀)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subuhana2303&label=Profile+Views&color=9F40FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/subuhana2303?label=Followers&style=flat-square&color=blueviolet" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Following-6-blue?style=flat-square" alt="Following Count" />
   <img src="https://img.shields.io/github/forks/subuhana2303/GreenCode_Checker?label=GreenCode+Forks&style=flat-square&color=9F40FF" alt="GreenCode Checker Forks" />
