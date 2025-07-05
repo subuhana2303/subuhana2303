@@ -91,10 +91,6 @@ Demonstrates **lexical analysis, IR generation**, and **code generation** in a m
 ---
 
 ## 🔗 Connect with Me
-<p align="center">
- <!-- GitHub contact side: -->
-  ![ezgif com-effects](https://github.com/user-attachments/assets/e004a8f8-5708-4d79-9cbf-37408d864816)
-</p>
 - 💼 [LinkedIn](https://www.linkedin.com/in/subuhana?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BhHQgpYTsTYWYZ7jUE3erHw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile)
 - 📫 Email: [subuhanabasheer21@gmail.com](mailto:subuhanabasheer41@gmail.com)
 - 🌐 Portfolio: _coming soon_
