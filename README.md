@@ -4,18 +4,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subuhana2303&label=Profile+Views&color=9F40FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/subuhana2303?label=Followers&style=flat-square&color=blueviolet" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Following-6-blue?style=flat-square" alt="Following Count" />
+  <img src="https://img.shields.io/badge/Following-8-blue?style=flat-square" alt="Following Count" />
   <img src="https://img.shields.io/github/forks/subuhana2303/GreenCode_Checker?label=GreenCode+Forks&style=flat-square&color=9F40FF" alt="GreenCode Checker Forks" />
 </p>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
----
 <p align="center">
   <img src="https://github.com/user-attachments/assets/be1612f6-c6d1-496f-a3dd-832a18ed9aa0" alt="ezgif com-effects" />
 </p>
 
-
-
-## 💡 About Me
+---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=9F40FF&vCenter=true&width=350&lines=🚀+About+Me" alt="About Me Typing Animation" />
 
 🎓 Final-year Computer Science student with a focus on building **real-world, impact-driven solutions**  
 🧠 Passionate about **AI**, **Web Security**, **Full-Stack Development**, and **Inclusive Tech**  
