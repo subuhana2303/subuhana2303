@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=subuhana2303&label=Profile+Views&color=9F40FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/subuhana2303?label=Followers&style=flat-square&color=blueviolet" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Following-8-blue?style=flat-square" alt="Following Count" />
-  <img src="https://img.shields.io/github/forks/subuhana2303/GreenCode_Checker?label=GreenCode+Forks&style=flat-square&color=9F40FF" alt="GreenCode Checker Forks" />
 </p>
 <!-- Animated Divider -->
 <p align="center">
